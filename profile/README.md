@@ -8,6 +8,8 @@ Retvest deploys AI on your organisation’s own servers or cloud. Bring your tea
 
 [Website](https://retvest.com/) · [Retvest Deploy](https://retvest.com/products/deploy/) · [RIL](https://retvest.com/products/ril/) · [Documentation](https://retvest.com/docs/)
 
+[How to deploy AI on your own servers](https://retvest.com/docs/self-hosted-ai/) covers architecture, model hosting, data flow and pilot planning. Use the [editable deployment brief](https://retvest.com/assets/retvest-deployment-planning-template.txt) to prepare your own requirements.
+
 ## Retvest Deploy
 
 The business AI environment for infrastructure your organisation operates. Deploy brings together Chat, Work and Code, company knowledge, agents and access controls. Your organisation chooses the model endpoint around its workflows and infrastructure.
